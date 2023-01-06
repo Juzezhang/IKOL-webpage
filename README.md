@@ -1,6 +1,6 @@
-# UniOT project page
+# IKOL project page
 
-[Project page]([https://changwxx.github.io/UniOT-webpage/](https://juzezhang.github.io/IKOL-webpage/)) for [AAAI 2023] IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation
+[Project page](https://juzezhang.github.io/IKOL-webpage/) for [AAAI 2023] IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation
 
 [[paper]] [[code]]([https://github.com/changwxx/UniOT-for-UniDA](https://github.com/Juzezhang/IKOL))
 
