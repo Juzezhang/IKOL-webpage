@@ -1,8 +1,8 @@
 # UniOT project page
 
-[Project page](https://changwxx.github.io/UniOT-webpage/) for [NeurIPS 2022 Spotlight] Unified Optimal Transport Framework for Universal Domain Adaptation.
+[Project page](https://juzezhang.github.io/IKOL-webpage/) for [NeurIPS 2022 Spotlight] Unified Optimal Transport Framework for Universal Domain Adaptation.
 
-[[paper]](https://arxiv.org/abs/2210.17067) [[code]](https://github.com/changwxx/UniOT-for-UniDA)
+[[paper]](https://arxiv.org/pdf/2302.01058.pdf) [[code]](https://github.com/Juzezhang/IKOL)
 
 <!-- # Cayman theme
 
